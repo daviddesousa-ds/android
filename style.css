@@ -52,8 +52,6 @@ header > p{
    padding-left: 10px;
    padding-bottom: 30px;
    text-shadow: 1px 1px 1px black;
-   margin-bottom: 0; /* Remove margem inferior */
-   padding-bottom: 0; /* Remove padding inferior */
 }
 
 nav{
@@ -65,7 +63,7 @@ nav{
 
 nav > a{
    font-size: 12px;
-   color: var(--cor2);
+   color: white;
    margin-left: 15px;
    text-decoration: none;
    font-weight: bold;
